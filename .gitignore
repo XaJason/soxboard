@@ -1,0 +1,53 @@
+# Node modules (if using Node.js in the future)
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Visual Studio Code settings
+.vscode/
+
+# Generated files and backups
+*.bak
+*.swp
+*.swo
+*.lock
+*.gz
+
+# Build output (if using a build process later)
+dist/
+build/
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Images cache (optional, based on project organization)
+images/*.cache
+
+# Miscellaneous
+.env
+*.env.local
+*.env.*.local
+
+# Coverage reports (if testing frameworks are introduced later)
+coverage/
+
+# By default, ignore everything in the pages directory, but not the directory itself
+pages/*
+!pages/*.html
