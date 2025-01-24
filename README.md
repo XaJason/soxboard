@@ -1,6 +1,3 @@
-I'll help you format the README.md for Soxboard in a more concise and clean manner:
-
-```markdown
 # Soxboard
 
 ## Overview
@@ -62,6 +59,3 @@ Inspired by The Odin Project
 ## License
 
 MIT License
-```
-
-This version maintains the key information while presenting it in a more streamlined, readable format. Would you like me to make any further adjustments?
