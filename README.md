@@ -35,7 +35,7 @@ Soxboard is a personal HTML moodboard project showcasing a collection of images 
 
 2. Open `index.html` in a web browser
 
-3. View live project: https://xa-jason.github.io/soxboard
+3. View live project: https://xajason.github.io/soxboard/
 
 ## Project Structure
 
